@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BitSwitch.vcxproj" Id="4c062385-b7e6-492a-babc-14c1944d64f0" />
+</Solution>
