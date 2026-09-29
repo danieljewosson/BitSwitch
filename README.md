@@ -48,9 +48,15 @@ Exit the program
 This project is a simple exercise for learning:
 
 Bitwise operations
+
 Bit shifts
+
 Binary numbers
+
 uint8_t
+
 Managing multiple states using a single variable
+
 Basic microcontroller programming concepts
+
 It's a great exercise for getting familiar with bit manipulation and microcontroller programming.
