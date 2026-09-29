@@ -11,6 +11,7 @@ uint8_t switches = 0b00000000;
 Each bit represents the state of a switch:
 
 0 — the switch is OFF
+
 1 — the switch is ON
 
 # For example 
