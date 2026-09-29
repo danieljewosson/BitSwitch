@@ -37,14 +37,18 @@ bool WIFI_PIN;
 bool BLUETOOTH_PIN;
 
 we can use: uint8_t system = 0b00000000;
+
 This makes the code more compact and is especially useful in microcontroller programming, where memory and performance can be important.
 
 # Features
 The program provides functions to:
 
 Turn a switch ON
+
 Turn a switch OFF
+
 Display the current state of all switches
+
 Exit the program
 
 # Purpose
