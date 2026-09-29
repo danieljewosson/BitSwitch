@@ -31,7 +31,9 @@ Using bit operations allows us to store the state of multiple switches inside a 
 For example,instead of:
 
 bool LED_PIN;
+
 bool WIFI_PIN;
+
 bool BLUETOOTH_PIN;
 
 we can use: uint8_t system = 0b00000000;
